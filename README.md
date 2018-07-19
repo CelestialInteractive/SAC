@@ -1,4 +1,4 @@
-# [SAC Documentation](https://www.sicklecellresearch.london) Documentation
+# [SAC](https://www.sicklecellresearch.london) Documentation
 
 # Go to the [wiki](https://github.com/CelestialInteractive/SAC/wiki) for documentation.
 
