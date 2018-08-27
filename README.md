@@ -1,6 +1,6 @@
 # [SAC](https://www.sicklecellresearch.london) Documentation
 
-SAC is a mobile app which allows sickle-cell patients to remotely record responses for academic researchers. SAC is proprietary software, however non-licensed code snippets can be viewed [here](https://gist.github.com/alexlaurence).
+SAC is a mobile app which allows sickle-cell patients to remotely record responses for academic researchers. SAC is proprietary software, however non-licensed code snippets can be viewed [here](https://gist.github.com/alexlaurence). Developed by Alexander Laurence, additional GUI design and QA testing by Melanie Koelbel.
 
 # Go to the [wiki](https://github.com/CelestialInteractive/SAC/wiki) for documentation.
 
